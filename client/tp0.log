@@ -1,0 +1,44 @@
+[INFO] 19:05:08:551 TP0/(4129:4129): Hola soy un log
+[INFO] 19:26:15:048 TP0/(4410:4410): Hola soy un log
+[INFO] 19:30:02:625 TP0/(4621:4621): Hola soy un log
+[INFO] 19:30:36:627 TP0/(4674:4674): Hola soy un log
+[INFO] 19:31:48:565 TP0/(4705:4705): Hola soy un log
+[INFO] 19:32:45:690 TP0/(4751:4751): Hola soy un log
+[INFO] 19:33:03:572 TP0/(4806:4806): Hola soy un log
+[INFO] 19:35:08:555 TP0/(4857:4857): Hola soy un log
+[INFO] 19:35:20:383 TP0/(4901:4901): Hola soy un log
+[INFO] 19:36:57:219 TP0/(4962:4962): Hola soy un log
+[INFO] 19:37:46:765 TP0/(5024:5024): Hola soy un log
+[INFO] 19:38:40:841 TP0/(5076:5076): Hola soy un log
+[INFO] 19:38:52:871 TP0/(5118:5118): Hola soy un log
+[INFO] 19:38:52:881 TP0/(5118:5118): Lei la IP 127.0.0.1 y el puerto 4444 
+[INFO] 20:46:10:657 TP0/(6135:6135): Hola soy un log
+[INFO] 20:46:10:662 TP0/(6135:6135): Lei la IP 127.0.0.1 y el puerto 4444 
+[INFO] 20:46:43:239 TP0/(6223:6223): Hola soy un log
+[INFO] 20:46:43:245 TP0/(6223:6223): Lei la IP valor y el puerto 4444 
+[INFO] 20:50:30:899 TP0/(6366:6366): Hola soy un log
+[INFO] 20:50:30:902 TP0/(6366:6366): Lei la IP 127.0.0.1 y el puerto 4444 
+[INFO] 20:53:38:599 TP0/(6455:6455): Hola soy un log
+[INFO] 20:53:38:604 TP0/(6455:6455): Lei la IP 127.0.0.1 y el puerto 4444 
+[INFO] 18:40:27:138 TP0/(24231:24231): Hola soy un log
+[INFO] 18:40:27:350 TP0/(24231:24231): Lei la IP 127.0.0.1 y el puerto 4444 
+[INFO] 18:40:32:900 TP0/(24337:24337): Hola soy un log
+[INFO] 18:40:32:903 TP0/(24337:24337): Lei la IP 127.0.0.1 y el puerto 4444 
+[INFO] 18:42:17:070 TP0/(31976:31976): Hola soy un log
+[INFO] 18:42:17:072 TP0/(31976:31976): El valor de la key es: 
+[INFO] 18:42:50:526 TP0/(32657:32657): Hola soy un log
+[INFO] 18:42:50:534 TP0/(32657:32657): El valor de la key es valor: 
+[INFO] 18:43:12:760 TP0/(33172:33172): Hola soy un log
+[INFO] 18:43:12:770 TP0/(33172:33172): El valor de la key es: valor 
+[INFO] 18:43:25:975 TP0/(33456:33456): Hola soy un log
+[INFO] 18:43:25:980 TP0/(33456:33456): El valor de la key es: compinches 
+[INFO] 18:51:18:266 TP0/(76118:76118): Hola soy un log
+[INFO] 18:51:18:268 TP0/(76118:76118): El valor de la key es: compinches 
+[INFO] 19:26:16:644 TP0/(98773:98773): Hola soy un log
+[INFO] 19:26:16:649 TP0/(98773:98773): El valor de la key es: compinches 
+[INFO] 19:47:36:940 TP0/(98849:98849): Hola soy un log
+[INFO] 19:47:36:943 TP0/(98849:98849): El valor de la key es: compinches 
+[INFO] 19:47:59:299 TP0/(98871:98871): Hola soy un log
+[INFO] 19:47:59:304 TP0/(98871:98871): El valor de la key es: compinches 
+[INFO] 20:05:17:484 TP0/(100122:100122): Hola soy un log
+[INFO] 20:05:17:493 TP0/(100122:100122): El valor de la key es: compinches 
